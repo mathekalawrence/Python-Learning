@@ -11,5 +11,7 @@ print(the_site)
 print(here_home)
 print("The result is: ", math, h1, h2)
 print(h3_boolean)
-print(h1/h2)
 
+#Assigning multiple values to multiple variables
+m,n,y,a,c = 56, 900, 34, 188, "Muia Larry"
+print("The value of y is:", y)
