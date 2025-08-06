@@ -11,3 +11,5 @@ print(the_site)
 print(here_home)
 print("The result is: ", math, h1, h2)
 print(h3_boolean)
+print(h1/h2)
+
