@@ -19,3 +19,4 @@ print("The value of y is:", y)
 #A list in python
 dates_of_birth = [1997, 2000, 1992, 1996]
 print(dates_of_birth)
+print(dates_of_birth[0])
