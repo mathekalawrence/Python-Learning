@@ -15,3 +15,7 @@ print(h3_boolean)
 #Assigning multiple values to multiple variables
 m,n,y,a,c = 56, 900, 34, 188, "Muia Larry"
 print("The value of y is:", y)
+
+#A list in python
+dates_of_birth = [1997, 2000, 1992, 1996]
+print(dates_of_birth)
