@@ -22,6 +22,11 @@ print(dates_of_birth)
 print(dates_of_birth[0])
 print(dates_of_birth[1])
 
+#Tuples
 here_t = ("Mine", "Larry", "BTH", 2029, "TechOver")
 print(here_t)
 print(here_t[3])
+
+#Sets
+learning_real = {567, 'Muia', 'Softect', "TheCompany", 2030 }
+print(learning_real)
