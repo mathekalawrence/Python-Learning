@@ -34,3 +34,4 @@ print(learning_real)
 #Dictionaries
 places_visited = {"Name": "MuiaLarry", "Title": 'CEO'}
 print(places_visited)
+print(7899/242*1000)
