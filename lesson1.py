@@ -24,3 +24,4 @@ print(dates_of_birth[1])
 
 here_t = ("Mine", "Larry", "BTH", 2029, "TechOver")
 print(here_t)
+print(here_t[3])
