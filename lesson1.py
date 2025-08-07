@@ -20,3 +20,7 @@ print("The value of y is:", y)
 dates_of_birth = [1997, 2000, 1992, 1996]
 print(dates_of_birth)
 print(dates_of_birth[0])
+print(dates_of_birth[1])
+
+here_t = ("Mine", "Larry", "BTH", 2029, "TechOver")
+print(here_t)
