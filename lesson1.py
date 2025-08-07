@@ -30,3 +30,7 @@ print(here_t[3])
 #Sets
 learning_real = {567, 'Muia', 'Softect', "TheCompany", 2030 }
 print(learning_real)
+
+#Dictionaries
+places_visited = {"Name": "MuiaLarry", "Title": 'CEO'}
+print(places_visited)
